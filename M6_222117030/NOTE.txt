@@ -1,0 +1,4 @@
+chart yang digunakan larapex chart
+ketemu dari sini https://blog.logrocket.com/exploring-best-laravel-chart-libraries/
+ini link githubnya -> https://github.com/ArielMejiaDev/larapex-charts
+di githubnya cara install -> composer require arielmejiadev/larapex-charts
